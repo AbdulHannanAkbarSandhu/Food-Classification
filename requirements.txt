@@ -1,0 +1,10 @@
+tensorflow-macos==2.20.*
+tensorflow-metal==1.2.*
+keras>=3.3
+numpy==2.0.*
+ml-dtypes>=0.3.0
+h5py>=3.10
+pillow
+opencv-python>=4.9
+scikit-learn
+matplotlib
